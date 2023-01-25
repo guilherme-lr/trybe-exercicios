@@ -8,6 +8,6 @@ console.log(custoFinal);
 let lucro = valorDeVenda - custoFinal;
 console.log(lucro);
 let unidadesVendidas ;
-// if(){
+if(){
 
-// };
+};

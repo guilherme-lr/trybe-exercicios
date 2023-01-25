@@ -1,4 +1,4 @@
-let porcentagem = 90;
+let porcentagem = 60;
 if(porcentagem >= 90){
     console.log('A');
 } else if (porcentagem >= 80){
